@@ -1,2 +1,3 @@
-# python_flask
-Thực hành python flask
+# Python for Web
+  
+- Thực hành python với Flask và Django
